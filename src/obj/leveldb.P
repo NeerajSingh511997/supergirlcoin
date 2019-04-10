@@ -1,0 +1,26 @@
+obj/leveldb.o: leveldb.cpp leveldb.h serialize.h allocators.h version.h \
+ clientversion.h \
+ /home/devil/supergirlcoin/src/leveldb/include/leveldb/db.h \
+ /home/devil/supergirlcoin/src/leveldb/include/leveldb/iterator.h \
+ /home/devil/supergirlcoin/src/leveldb/include/leveldb/slice.h \
+ /home/devil/supergirlcoin/src/leveldb/include/leveldb/status.h \
+ /home/devil/supergirlcoin/src/leveldb/include/leveldb/options.h \
+ /home/devil/supergirlcoin/src/leveldb/include/leveldb/write_batch.h \
+ util.h uint256.h netbase.h compat.h \
+ /home/devil/supergirlcoin/src/leveldb/include/leveldb/env.h \
+ /home/devil/supergirlcoin/src/leveldb/include/leveldb/cache.h \
+ /home/devil/supergirlcoin/src/leveldb/include/leveldb/filter_policy.h \
+ /home/devil/supergirlcoin/src/leveldb/helpers/memenv/memenv.h
+leveldb.cpp leveldb.h serialize.h allocators.h version.h :
+ clientversion.h :
+ /home/devil/supergirlcoin/src/leveldb/include/leveldb/db.h :
+ /home/devil/supergirlcoin/src/leveldb/include/leveldb/iterator.h :
+ /home/devil/supergirlcoin/src/leveldb/include/leveldb/slice.h :
+ /home/devil/supergirlcoin/src/leveldb/include/leveldb/status.h :
+ /home/devil/supergirlcoin/src/leveldb/include/leveldb/options.h :
+ /home/devil/supergirlcoin/src/leveldb/include/leveldb/write_batch.h :
+ util.h uint256.h netbase.h compat.h :
+ /home/devil/supergirlcoin/src/leveldb/include/leveldb/env.h :
+ /home/devil/supergirlcoin/src/leveldb/include/leveldb/cache.h :
+ /home/devil/supergirlcoin/src/leveldb/include/leveldb/filter_policy.h :
+ /home/devil/supergirlcoin/src/leveldb/helpers/memenv/memenv.h :
